@@ -1,12 +1,12 @@
 import firebase from 'firebase'
 
 const config = {
-  apiKey: "AIzaSyA00_iNauH5njeO2CEksQlJS2nLg4CNbtg",
-  authDomain: "sales-script-test-app.firebaseapp.com",
-  databaseURL: "https://sales-script-test-app.firebaseio.com",
-  projectId: "sales-script-test-app",
-  storageBucket: "sales-script-test-app.appspot.com",
-  messagingSenderId: "773467188076"
+  apiKey: "AIzaSyChKiHg1KyQaMxlAYAYfIwbfE9sTJ5HeuI",
+  authDomain: "script-app-59660.firebaseapp.com",
+  databaseURL: "https://script-app-59660.firebaseio.com",
+  projectId: "script-app-59660",
+  storageBucket: "script-app-59660.appspot.com",
+  messagingSenderId: "769001439706"
 }
 
 firebase.initializeApp(config);
